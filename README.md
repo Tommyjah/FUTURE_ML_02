@@ -1,4 +1,4 @@
-# 🎫 AI Support Ticket Classification & Priority System
+# 🎫 IT Support Ticket Classification & Priority System
 **ML Internship Task 2 | Future Interns**
 
 ## 📖 Business Overview
@@ -18,6 +18,7 @@ I utilized **TF-IDF** to transform raw text into numerical significance, allowin
 
 ### 4. Model Evaluation
 The system was validated using a **Confusion Matrix** to ensure high precision in routing.
+![Confusion Matrix](confusion_matrix.png)
 
 ---
 **Author:** Thomas Debebe
